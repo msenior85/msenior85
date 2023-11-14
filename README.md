@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @msenior85
-- 👀 I’m interested in Data Science and Blockchain Technology
-- 🌱 I’m currently learning Data Science and Financial Technology at the University of London
+- 🌱 Data science and financial technology graduate from the University of London
 - 💞️ I’m looking to collaborate on any Data Science projects
 - 📫 Reach me on [twitter.com](https://twitter.com/msenior_ "https://twitter.com/msenior_")
 
